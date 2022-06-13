@@ -55,7 +55,7 @@
 <p align="center">
     <a href="https://github.com/talosmodders">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=350&lines=Thanks+For+Using+Last+Botz+<3"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=350&lines=Made+With+Rangga+X2+<3"
             alt="TalosModders"
         />
     </a>
